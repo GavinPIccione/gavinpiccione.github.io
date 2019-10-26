@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "G. Piccione"
-title_separator          : ""
+title_separator          : "-"
 name                     : &name "Gavin Piccione"
 description              : &description "Ph.D Student "
 url                      : https://gavinpiccione.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Gavin G. Piccione"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student              University of California Santa Cruz"
+  bio              : "Ph.D. Student<br>University of California Santa Cruz"
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
