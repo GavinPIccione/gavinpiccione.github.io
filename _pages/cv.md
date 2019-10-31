@@ -16,6 +16,7 @@ Education
   + __Adviser:__ Troy Rasbury
 * __Ph.D,__ Earth and Planetary Sciences, University of California Santa Cruz, 2022 (expected)
   +__Adviser:__ Terry Blackburn
+
 Work experience
 ======
 
