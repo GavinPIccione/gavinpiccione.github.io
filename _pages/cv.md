@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Gavin Piccione
-======
+## Gavin G. Piccione
+-----
 
 Education
 ======
