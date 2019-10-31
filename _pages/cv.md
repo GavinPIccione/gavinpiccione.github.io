@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Gavin G. Piccione
+Ph.D. Student, Earth and Planetary Sciences Department, University of California Santa Cruz
 -----
 
 Education
