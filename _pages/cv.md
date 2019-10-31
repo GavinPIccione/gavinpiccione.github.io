@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Gavin Piccione
+======
+
 Education
 ======
 * __B.S.__ <i>summa cum laude</i>, Geosciences, Stony Brook University, 2016 
