@@ -27,7 +27,7 @@ Education
 Publications
 ======
 * __Vein fluorite U-Pb dating demonstrates post–6.2 Ma rare-earth element mobilization associated with Rio Grande rifting__
-  + Piccione, G., Rasbury, E.T., Elliott, B.A., Kyle, J.R., Jaret, S.J., Acerbo, A.S., Lanzirotti, A., Northrup, P., Wooton,   K., and Parrish, R.R., 2019, Vein fluorite U-Pb dating demonstrates post–6.2 Ma rare-earth element mobilization associated with Rio Grande rifting: Geosphere, v. 15, no. X, p. 1–15, https:// doi.org/10.1130/GES02139.1.
+>Piccione, G., Rasbury, E.T., Elliott, B.A., Kyle, J.R., Jaret, S.J., Acerbo, A.S., Lanzirotti, A., Northrup, P., Wooton,   >K., and Parrish, R.R., 2019, Vein fluorite U-Pb dating demonstrates post–6.2 Ma rare-earth element mobilization associated >with Rio Grande rifting: Geosphere, v. 15, no. X, p. 1–15, https:// doi.org/10.1130/GES02139.1.
 
 Select Presentations
 ======
