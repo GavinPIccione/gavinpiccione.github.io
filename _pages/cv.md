@@ -55,16 +55,16 @@ Teaching and Mentorship
 * __Teaching Assistant__, Physical Geology Laboratory, 2013
 
 * __Mentor__, Stefani Himes (now a researcher at Lawrence Livermore National Laboratory), 2018-2019
-    +__Undergraduate thesis work:__ <i>Assessing the comminution ages of rock avalanche deposits</i>
+<ul>__Undergraduate thesis work:__ <i>Assessing the comminution ages of rock avalanche deposits</i> </ul>
 * __Mentor__, Samuel Ferdman, 2017-2018
-    +__Undergraduate thesis work:__ <i>Developing new methods for U-series comminution dating</i>  
+<ul>__Undergraduate thesis work:__ <i>Developing new methods for U-series comminution dating</i> </ul>
 * __Mentor__, Girl Scouts of America, 2015
 
 Outreach
 ======
-__Volunteer__, Santa Cruz Museum of Natural History, 2017-present
-__Trip Leader__, Geologic Tour of Yosemite Valley, 2018
-__Member__, Stony Brook Graduate Students for Education and Outreach, 2015-2016
+* __Volunteer__, Santa Cruz Museum of Natural History, 2017-present
+* __Trip Leader__, Geologic Tour of Yosemite Valley, 2018
+* __Member__, Stony Brook Graduate Students for Education and Outreach, 2015-2016
 
 Awards
 ======
