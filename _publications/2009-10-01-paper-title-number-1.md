@@ -1,5 +1,5 @@
 ---
-title: ## "Vein fluorite U-Pb dating demonstrates post–6.2 Ma rare-earth element mobilization associated with Rio Grande rifting"
+title: "Vein fluorite U-Pb dating demonstrates post–6.2 Ma rare-earth element mobilization associated with Rio Grande rifting"
 collection: publications
 permalink: /publication/2019-11-Piccione-etal-2019
 excerpt: '-------'
