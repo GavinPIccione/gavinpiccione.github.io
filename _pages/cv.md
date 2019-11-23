@@ -54,13 +54,11 @@ Teaching and Mentorship
 * __Teaching Assistant__, Structural Geology, 2016
 * __Teaching Assistant__, Physical Geology Laboratory, 2013
 
-* __Mentor__, Stefani Himes (now a researcher at Lawrence Livermore National Laboratory), 2018-2019
+* __Mentor:__ Stefani Himes (now a researcher at Lawrence Livermore National Laboratory), 2018-2019
 	+ __Undergraduate thesis work:__ <i>Assessing the comminution ages of rock avalanche deposits</i> </ul>
-
-* __Mentor__, Samuel Ferdman, 2017-2018
+* __Mentor:__ Samuel Ferdman, 2017-2018
 	+ __Undergraduate thesis work:__ <i>Developing new methods for U-series comminution dating</i> </ul>
-
-* __Mentor__, Girl Scouts of America, 2015
+* __Mentor:__ Girl Scouts of America, 2015
 
 Outreach
 ======
