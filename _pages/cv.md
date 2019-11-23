@@ -56,8 +56,10 @@ Teaching and Mentorship
 
 * __Mentor__, Stefani Himes (now a researcher at Lawrence Livermore National Laboratory), 2018-2019
 	+ __Undergraduate thesis work:__ <i>Assessing the comminution ages of rock avalanche deposits</i> </ul>
+
 * __Mentor__, Samuel Ferdman, 2017-2018
 	+ __Undergraduate thesis work:__ <i>Developing new methods for U-series comminution dating</i> </ul>
+
 * __Mentor__, Girl Scouts of America, 2015
 
 Outreach
