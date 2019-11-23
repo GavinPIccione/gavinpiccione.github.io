@@ -47,24 +47,18 @@ Relevant Work Experience
 ======
 * __Research Assistant__, Facility for Isotope Research and Student Training, Stony Brook University 2012-2016
 
-Teaching and Mentorship
+Teaching
 ======
-* __Teaching Assistant__, Evolution of Earth, 2019
-* __Teaching Assistant__, Solar System History, 2018
-* __Teaching Assistant__, Structural Geology, 2016
-* __Teaching Assistant__, Physical Geology Laboratory, 2013
-
-* __Mentor:__ Stefani Himes (now a researcher at Lawrence Livermore National Laboratory), 2018-2019
-	+ __Undergraduate thesis work:__ <i>Assessing the comminution ages of rock avalanche deposits</i> </ul>
-* __Mentor:__ Samuel Ferdman, 2017-2018
-	+ __Undergraduate thesis work:__ <i>Developing new methods for U-series comminution dating</i> </ul>
-* __Mentor:__ Girl Scouts of America, 2015
+* __Teaching Assistant,__ Evolution of Earth, 2019
+* __Teaching Assistant,__ Solar System History, 2018
+* __Teaching Assistant,__ Structural Geology, 2016
+* __Teaching Assistant,__ Physical Geology Laboratory, 2013
 
 Outreach
 ======
-* __Volunteer__, Santa Cruz Museum of Natural History, 2017-present
-* __Trip Leader__, Geologic Tour of Yosemite Valley, 2018
-* __Member__, Stony Brook Graduate Students for Education and Outreach, 2015-2016
+* __Volunteer,__ Santa Cruz Museum of Natural History, 2017-present
+* __Trip Leader,__ Geologic Tour of Yosemite Valley, 2018
+* __Member,__ Stony Brook Graduate Students for Education and Outreach, 2015-2016
 
 Awards
 ======
