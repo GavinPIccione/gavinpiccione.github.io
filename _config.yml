@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "G. Piccione"
+title                    : "Gavin Piccione"
 title_separator          : "|"
 name                     : &name "Gavin Piccione"
-description              : &description "Ph.D Student at UC Santa Cruz"
+description              : &description "Ph.D. Candidate at UC Santa Cruz"
 url                      : https://gavinpiccione.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gavinpiccione.github.io"
