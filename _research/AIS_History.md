@@ -1,8 +1,8 @@
 ---
 title: "Reconstructing Ice Sheet Evolution"
-collection: research
 permalink: /research/IceDynamics
 excerpt: "Past ice sheet conditions are notoriously difficult to resolve, as the most recent ice advance razes geologic records of previous glaciations. One of my research initiatives combines geochronological and geochemical characterization of subglacial precipitates to link changes in the basal environmental to ice sheet dynamics.<br/><img src='/images/P1010050.JPG'>"
+collection: research
 ---
 The mechanisms behind ice sheet growth and retreat are part of a complex feedback between cryosphere-atmosphere-ocean teleconnections. The timescales and interplay of these drivers are not yet fully understood, making it difficult to predict how ice sheets will behave in the future. One way that Earth scientists have approached this problem is to look back at past warm periods to determine how these ice sheet responded to a given climatic event. However, a sparse geologic record makes these reconstructions difficult. A major component of my current research seeks to fill this knowledge gap by studying subglacial chemical precipitates. These samples, which form in aqueous environments at the base of ice sheets, represent a novel archive of subglacial hydrologic conditions driven by the overlying ice. My research leverages the precipitate record through geochronological, geochemical, and microtextural characterization to link subglacial environmental change to ice sheet volume fluxes.
 
