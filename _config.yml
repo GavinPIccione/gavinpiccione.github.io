@@ -236,13 +236,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _research
-  path: ""
+ # _research
+  - scope:
+      path: ""
       type: research
     values:
-      layout: archive
+      layout: single
       author_profile: true
       share: true
+      comment: false
 # Sass/SCSS
 sass:
   sass_dir: _sass
