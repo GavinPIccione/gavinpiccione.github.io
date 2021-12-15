@@ -17,4 +17,6 @@ forcing to melt buttressing ice shelves, causing the ice to accelerate. This res
 ---
 ### The Laurentide Ice Sheet
 I am a part of a team of researchers working with subglacial precipitates from Baffin Island, Canada to determine the timing of accelerated ice flow in the 
-Northern Laurentide Ice Sheet. Dates from a suite of Baffin precipitates suggest that they formed during three distinct episodes of ice sheet surging that were coincident with Heinrich stadials one through three respectively. Using this dataset, we’ve determined these rocks to be the first terrestrial archive of Heinrich events. These results support ocean thermal forcing as the triggering mechanism for Heinrich events.<br/><img src='/images/Baffin_ice.jpeg'>
+Northern Laurentide Ice Sheet. Dates from a suite of Baffin precipitates suggest that they formed during three distinct episodes of ice sheet surging that were coincident with Heinrich stadials one through three respectively. Using this dataset, we’ve determined these rocks to be the first terrestrial archive of Heinrich events. These results support ocean thermal forcing as the triggering mechanism for Heinrich events.
+
+<br/><img src='/images/Baffin_ice.jpeg'>
