@@ -2,7 +2,7 @@
 title: "Reconstructing Ice Sheet Evolution"
 collection: research
 permalink: /research/IceDynamics
-excerpt: "Past ice sheet conditions are notoriously difficult to resolve, as the most recent ice advance razes geologic records of previous glaciations. One of my research initiatives combines geochronological and geochemical characterization of subglacial precipitates to link changes in the basal environmental to ice sheet dynamics.<br/><img src='/images/TaylorValley.jpeg'>""
+excerpt: "Past ice sheet conditions are notoriously difficult to resolve, as the most recent ice advance razes geologic records of previous glaciations. One of my research initiatives combines geochronological and geochemical characterization of subglacial precipitates to link changes in the basal environmental to ice sheet dynamics.<br/><img src='/images/TaylorValley.jpeg'>"
 ---
 The mechanisms behind ice sheet growth and retreat are part of a complex feedback between cryosphere-atmosphere-ocean teleconnections. The timescales and 
 interplay of these drivers are not yet fully understood, making it difficult to predict how ice sheets will behave in the future. One way that Earth scientists 
