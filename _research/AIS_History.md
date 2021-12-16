@@ -12,8 +12,7 @@ The timescales and triggering mechanisms of ice sheet growth and retreat are not
 One of my major research projects uses mineralogic variations in subglacial precipitates to demonstrate that the East Antarctic ice sheet responds to 
 millennial-scale Antarctic climate cycles. Combining subglacial precipitate data with a model of ice sheet thermodynamics, this project showed that the Antarctic 
 ice sheet thins and thickens at the margins in response to millennial-scale cycles in Antarctic climate.  To trigger this rapid ice sheet response requires ocean 
-forcing to melt buttressing ice shelves, causing the ice to accelerate. This research challenges the widely held assumption of a static East Antarctic ice sheet on suborbital timescales, and links Antarctic ice sheet volume to ocean-atmosphere-cryosphere teleconnections on millennial timescales.<br/><img src='/
-images/RossIceShelf.jpeg'>
+forcing to melt buttressing ice shelves, causing the ice to accelerate. This research challenges the widely held assumption of a static East Antarctic ice sheet on suborbital timescales, and links Antarctic ice sheet volume to ocean-atmosphere-cryosphere teleconnections on millennial timescales.<br/><img src='/images/RossIceShelf.jpeg'>
 
 ---
 ### The Laurentide Ice Sheet
