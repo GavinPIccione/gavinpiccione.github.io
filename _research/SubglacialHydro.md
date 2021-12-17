@@ -13,4 +13,6 @@ Modern remote sensing data from the Antarctic subglacial environment reveal an a
 
 ---
 ### Centennial-Scale Sublglacial Flooding Events
+Simulations of ice sheet basal hydrology predict periodic lake flushing events as a function of pressure from the overlying ice sheet and lake filling rate. Indeed, cyclic floods have been observed beneath the modern Antarctic and Greenland Ice Sheets. However, no long-term record of subglacial lake flushing exists. I’ve discovered a ~10kyr record of basal flushing beneath the East Antarctic Ice Sheet during MIS 5d and 5e, which reveals that subglacial lakes drain and fill in centennial-scale cycles.
+
 
