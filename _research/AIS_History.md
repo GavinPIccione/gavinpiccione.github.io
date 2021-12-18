@@ -2,7 +2,7 @@
 title: "Reconstructing Ice Sheet Evolution"
 collection: research
 permalink: /research/IceDynamics
-excerpt: "Past ice sheet conditions are notoriously difficult to resolve, as the most recent ice advance razes geologic records of previous glaciations. One of my research initiatives combines geochronological and geochemical characterization of subglacial precipitates to link changes in the basal environmental to ice sheet dynamics.
+excerpt: "Past ice sheet conditions are notoriously difficult to resolve, as the most recent ice advance razes geologic records of previous glaciations. One of my research initiatives combines geochronological and geochemical characterization of subglacial precipitates to link changes in the basal environment to ice sheet dynamics.
 <br/><img src='/images/BasalIce.JPG'>"
 
 ---
