@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional DEI Initiatives & Educational Outreach"
+title: "DEI Initiatives & Educational Outreach"
 permalink: /Outreach/
 author_profile: true
 ---
