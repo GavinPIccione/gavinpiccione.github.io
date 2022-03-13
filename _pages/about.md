@@ -16,8 +16,8 @@ My research applies geochronological, isotopic, spectroscopic, and computational
 
 ---
 
-In addition to my research interests, I am passionate about doing my part to improve equity in Earth Science through DEI initiatives and accessible education. I am currently a graduate representative on the DEI committee in the Earth and Planetary Sciences department at UCSC and am working to improve my abilities to foster more equitable academic spaces through the UCSC Diversity and Inclusion certificate program. I also volunteer at the Santa Cruz Museum of Natural History with my colleague [Graham Edwards](https://grahamedwards.github.io/), where we host [monthly video streams](https://www.santacruzmuseum.org/category/rockin-pop-up/), [a recurring blog](https://www.santacruzmuseum.org/category/virtual-museum/rock-record/), and various pop-up museum exhibits. 
+In addition to my research interests, I am passionate about doing my part to improve equity in Earth Science through DEI initiatives and accessible education. Visit my [Outreach Section](https://gavinpiccione.github.io/outreach/) to learn about my work with the Santa Cruz Museum of Natural History, as well as projects I'm involved in within the Earth Science community.
 
 ---
 
-Want to hear about the latest updates on my research, or catch me at a conference? Check out my [News Section](https://gavinpiccione.github.io/year-archive/).
+Want to hear about the latest updates on my research, hear about my recent outreach events, or catch me at a conference? Check out my [News Section](https://gavinpiccione.github.io/year-archive/).
