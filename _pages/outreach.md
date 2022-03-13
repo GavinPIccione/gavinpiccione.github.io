@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "DEI Initiatives & Educational Outreach"
-permalink: /Outreach/
+permalink: /outreach/
 author_profile: true
 ---
 
