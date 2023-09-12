@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **geochronologist** and **geochemist** working as an NSF graduate fellow in the [Blackburn geochronology lab](https://ucscgeochronology.sites.ucsc.edu/) at the University of California Santa Cruz.
+I am a **geochronologist** and **geochemist** working as a postdoctoral research associate at Brown University.
 
 ---
 
@@ -17,7 +17,3 @@ My research applies geochronological, isotopic, spectroscopic, and computational
 ---
 
 In addition to my research interests, I am passionate about doing my part to improve equity in Earth Science through DEI initiatives and accessible education. Visit my [Outreach Section](https://gavinpiccione.github.io/outreach/) to learn about my work with the Santa Cruz Museum of Natural History, as well as projects I'm involved in within the Earth Science community.
-
----
-
-Want to hear about the latest updates on my research, hear about my recent outreach events, or catch me at a conference? Check out my [News Section](https://gavinpiccione.github.io/year-archive/).
