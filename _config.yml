@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Gavin Piccione"
 title_separator          : "|"
 name                     : &name "Gavin Piccione"
-description              : &description "Ph.D. Candidate at UC Santa Cruz"
+description              : &description "Postdoctoral Research Associate at Brown University"
 url                      : https://gavinpiccione.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gavinpiccione.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Gavin G. Piccione"
   avatar           : "profile3.png"
-  bio              : "Ph.D Candidate<br>Geochronology<br>UC Santa Cruz"
-  location         : "Santa Cruz, CA"
+  bio              : "Postdoctoral Research Associate<br>Earth Science<br>Brown University"
+  location         : "Providence, RI"
   employer         :
   pubmed           : 
-  email            : "gpiccion@ucsc.edu"
+  email            : "gavin_piccione@brown.edu"
   googlescholar    : "https://scholar.google.com/citations?user=DR4WkTsAAAAJ&hl=en&oi=ao"
   researchgate     : "https://www.researchgate.net/profile/Gavin_Piccione"
   uri              :
