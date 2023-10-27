@@ -12,7 +12,7 @@ I am a **geochronologist** and **geochemist** working as a postdoctoral research
 
 ---
 
-My research applies geochronological, isotopic, spectroscopic, and computational approaches to understand past environmental changes through proxies in the sedimentary rock record.  I am particularly interested in applying these tools to study [ice sheet evolution](https://gavinpiccione.github.io/research/IceDynamics), [subglacial hydrology](https://gavinpiccione.github.io/research/SubglacialHydro), and hydrothermal systems.
+My research leverages the sedimentary rock record through a diverse set of analytical techniques – including U-series and U/Pb geochronology, stable isotopes, elemental analyses, spectroscopy, and geochemical models – to create time-resolved datasets that describe cryospheric evolution on decadal to million-year timescales. As a central aspect of this work, I pair traditional and novel terrestrial glacial archives to help fill longstanding spatial and temporal gaps in the ice sheet paleorecord. The aim of this research is to gain a better understanding of how climate forcing drives ice sheet evolution, the rates at which this evolution occurs, and the environmental effects of glaciers on global chemical cycles and ecosystems. Though my research projects generally involve glacial geology, I have broader interests in Quaternary paleoclimate and low temperature geochemistry.
 
 ---
 
