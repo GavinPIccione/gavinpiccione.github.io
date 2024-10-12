@@ -16,4 +16,4 @@ My research focuses on the causes of climate change and its effects on Earth's s
 
 ---
 
-In addition to my research interests, I am committed to accessible and engaging education, both within and beynd the classroom. Visit my [Outreach Section](https://gavinpiccione.github.io/outreach/) to learn about my work with the Santa Cruz Museum of Natural History, as well as projects I'm involved in within the Earth Science community.
+I am committed to accessible and engaging education, both within and beyond the classroom. Visit my [Outreach Section](https://gavinpiccione.github.io/outreach/) to learn about my work with the Santa Cruz Museum of Natural History, as well as projects I'm involved in within the Earth Science community.
