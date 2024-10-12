@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "DEI Initiatives & Educational Outreach"
+title: "Earth Science Education and Community Outreach"
 permalink: /outreach/
 author_profile: true
 ---
