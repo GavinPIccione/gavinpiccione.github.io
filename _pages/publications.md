@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find this work on my [Google Scholar profile]("https://scholar.google.com/citations?user=ST_EM7wAAAAJ&hl=en&oi=ao">)
+You can also find this work on my [Google Scholar profile]("https://scholar.google.com/citations?user=ST_EM7wAAAAJ&hl=en&oi=ao")
 
 {% include base_path %}
 
