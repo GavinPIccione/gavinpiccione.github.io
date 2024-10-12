@@ -8,12 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a **geochronologist** and **geochemist** working as a postdoctoral research associate at Brown University.
+I am a **geochemist** and **climate scientist** working as a postdoctoral research associate at Brown University.
 
 ---
 
-My research leverages the sedimentary rock record through a diverse set of analytical techniques – including U-series and U/Pb geochronology, stable isotopes, elemental analyses, spectroscopy, and geochemical models – to create time-resolved datasets that describe cryospheric evolution on decadal to million-year timescales. As a central aspect of this work, I pair traditional and novel terrestrial glacial archives to help fill longstanding spatial and temporal gaps in the ice sheet paleorecord. The aim of this research is to gain a better understanding of how climate forcing drives ice sheet evolution, the rates at which this evolution occurs, and the environmental effects of glaciers on global chemical cycles and ecosystems. Though my research projects generally involve glacial geology, I have broader interests in Quaternary paleoclimate and low temperature geochemistry.
-
----
-
-In addition to my research interests, I am passionate about doing my part to improve equity in Earth Science through DEI initiatives and accessible education. Visit my [Outreach Section](https://gavinpiccione.github.io/outreach/) to learn about my work with the Santa Cruz Museum of Natural History, as well as projects I'm involved in within the Earth Science community.
+My research focuses on the causes of climate change and its effects on Earth's surface environments. I primarily investigate how polar environments and ice sheets have responded to past climate fluctuations, and how these changes influence global biogeochemical cycles and sea level. Additionally, I have ongoing projects examining the hydroclimate of the western U.S. and the formation of critical minerals in hydrothermal systems.
