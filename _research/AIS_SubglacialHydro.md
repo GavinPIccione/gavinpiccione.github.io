@@ -1,8 +1,8 @@
 ---
-title: "Antarctic Subglacial Hydrology"
+title: "Glacial Environments"
 collection: research
 permalink: /research/SubglacialHydro
-excerpt: <br/><img src='/images/Bloodfalls.JPG'>"
+excerpt: <br/><img src='images/Glacier.png'>"
 order_number: 30
 
 ---
