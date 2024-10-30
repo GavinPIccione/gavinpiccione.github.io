@@ -1,7 +1,7 @@
 ---
 title: "Chemical Weathering in Glacial Environments"
 layout: single-portfolio
-excerpt:"<img src='/images/Glacier.png'</a>"
+excerpt:<br/><img src='/images/Glacier.png'>"
 collection: research
 permalink: /research/GlacialWeathering
 
