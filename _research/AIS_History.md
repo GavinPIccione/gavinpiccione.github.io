@@ -1,10 +1,9 @@
 ---
 title: "Ice Sheet Evolution"
-layout: single-portfolio
 collection: research
 permalink: /research/IceSheetEvolution
-excerpt:"<img src='/images/AIS_basemap.png'> alt=''>"
-order_number: 40
+excerpt: <br/><img src='images/AIS_basemap.png'>
+order_number: 10
 ---
 The timescales and triggering mechanisms of ice sheet growth and retreat are not yet fully understood, making it difficult to predict how ice sheets will behave in the future. One way that Earth scientists have approached this problem is to look back at how ice sheets have behaved in the past. However, a sparse geologic record makes these reconstructions difficult. A major component of my current research seeks to fill this knowledge gap by studying subglacial chemical precipitates (e.g., below). These samples, which form in aqueous environments at the base of ice sheets, represent a novel archive of subglacial hydrologic conditions driven by the overlying ice. My research leverages the precipitate record through geochronological, geochemical, and microtextural characterization to link subglacial environmental change to ice sheet volume fluxes.<br/><img src='/images/MA113_slab_background.png'>
 
