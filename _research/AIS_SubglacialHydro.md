@@ -1,6 +1,5 @@
 ---
 title: "Antarctic Subglacial Hydrology"
-layout: single
 collection: research
 permalink: /research/SubglacialHydro
 excerpt:
