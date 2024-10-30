@@ -1,7 +1,7 @@
 ---
 title: "Glacial Environments"
 collection: research
-permalink: /research/SubglacialHydro
+permalink: /research/GlacialEnvironments
 excerpt: <br/><img src='images/Glacier.png'>
 order_number: 30
 
