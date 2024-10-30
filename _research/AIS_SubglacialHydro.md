@@ -2,7 +2,7 @@
 title: "Glacial Environments"
 collection: research
 permalink: /research/SubglacialHydro
-excerpt: <br/><img src='images/Glacier.png'>"
+excerpt: <br/><img src='images/Glacier.png'>
 order_number: 30
 
 ---
