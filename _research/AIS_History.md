@@ -1,5 +1,6 @@
 ---
 title: "Ice Sheets and Sea Level"
+layout: single-portfolio
 collection: research
 permalink: /research/IceSheetEvolution
 excerpt: <br/><img src='/images/AIS_basemap.png'>
