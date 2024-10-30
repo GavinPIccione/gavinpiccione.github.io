@@ -1,5 +1,5 @@
 ---
-title: "Glacial Environments"
+title: "        Glacial Environments"
 collection: research
 permalink: /research/GlacialEnvironments
 excerpt: <a href='https://gavinpiccione.github.io/research/GlacialEnvironments'><br/><img src='/images/Glacier.png'>
