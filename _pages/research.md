@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<nbsp>
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
