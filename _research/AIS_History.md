@@ -1,5 +1,5 @@
 ---
-title: "Ice Sheet Evolution"
+title: "Ice Sheets and Sea Level"
 collection: research
 permalink: /research/IceSheetEvolution
 excerpt: <br/><img src='images/AIS_basemap.png'>
