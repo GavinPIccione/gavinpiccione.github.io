@@ -7,8 +7,10 @@ excerpt: <a href='https://gavinpiccione.github.io/research/Hydroclimate'><br/><i
 order_number: 50
 ---
 
-The Great Basin in the western US is currently one of the driest regions in North America, but has also contained large and abundant lakes during times throughout the Quaternary, most recently during last glacial maximum (~26-20ka) and subsequent deglacial period, lasting until ~10 thousand years ago. Understanding the climate forcing the drove these changes in water balance through time is important for determining how changing climates will affect surface water availability in arid regions.<br/><img src='/images/GLMShorelines.png'>
-Ancient shoreline deposits from Glacial Lake Mojave
+The Great Basin in the western US is currently one of the driest regions in North America, but has also contained large and abundant lakes during times throughout the Quaternary, most recently during last glacial maximum (~26-20ka) and subsequent deglacial period, lasting until ~10 thousand years ago. Understanding the climate forcing the drove these changes in water balance through time is important for determining how changing climates will affect surface water availability in arid regions.
+
+<br/><img src='/images/GLMShorelines.png'>
+*Ancient shoreline deposits from Glacial Lake Mojave*
 
 ---
 ### Glacial Lake Mojave
