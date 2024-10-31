@@ -11,4 +11,4 @@ The Great Basin in the western US is currently one of the driest regions in Nort
 
 ---
 ### Glacial Lake Mojave
-I am working on a project in collaboration with researchers at Cal State Fullerton and Santiago Canyon College studying Glacial Lake Mojave: a pluvial lake in the southern Great Basin. Using a “core-to-shore” approach we are reconstructing the lake history using lake proxy records from a sediment core at the lake depocenter, as well as tufa from ancient shoreline deposits. 
+I am working on a project in collaboration with researchers at Cal State Fullerton and Santiago Canyon College studying Glacial Lake Mojave: a pluvial lake in the southern Great Basin. Using a “core-to-shore” approach we are reconstructing the lake history using lake proxy records from a sediment core at the lake depocenter, as well as tufa and shells from ancient shoreline deposits. 
