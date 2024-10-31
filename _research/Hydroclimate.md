@@ -1,5 +1,5 @@
 ---
-title: "Western Us Hydroclimate"
+title: "Western US Hydroclimate"
 layout: single-portfolio
 collection: research
 permalink: /research/Hydroclimate
