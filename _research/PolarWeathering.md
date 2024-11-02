@@ -11,7 +11,7 @@ Glaciers and ice sheets are powerful agents of physical erosion that create envi
 *Blood Falls in Taylor Valley, Antarctica, is an example of a highly evolved subglacial water that is rich in rock derived nutrients, most notably iron, which gives it its red color.*
 
 ---
-### Ice Sheets as Chemical Weathering Agents
+### Ice Sheets as Weathering Agents
 
 ---
 ### Glaciers and Ice Sheets as Nutrient Factories
