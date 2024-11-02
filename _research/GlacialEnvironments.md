@@ -10,6 +10,6 @@ Modern remote sensing data from the Antarctic subglacial environment reveal an a
 
 ---
 ### Subglacial Hydrology
-SModern remote sensing data from the Antarctic subglacial environment reveal an active hydrologic system where water is stored in lakes and saturated sediments and is flushed towards the ice sheet margin during flooding events. These aqueous systems help regulate ice sheet flow and are significant sources of ocean solutes and nutrients. I am working on a establishing long-term records for subglacial flushing beneath the East Antarctic Ice Sheet.
+Modern remote sensing data from the Antarctic subglacial environment reveal an active hydrologic system where water is stored in lakes and saturated sediments and is flushed towards the ice sheet margin during flooding events. These aqueous systems help regulate ice sheet flow and are significant sources of ocean solutes and nutrients. I am working on a establishing long-term records for subglacial flushing beneath the East Antarctic Ice Sheet.
 
 
