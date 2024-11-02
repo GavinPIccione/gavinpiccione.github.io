@@ -12,7 +12,7 @@ The timescales and triggering mechanisms of ice sheet growth and retreat remain 
 ### Antarctic Ice Dynamics on Decade to Millennial Timescales
 I have ongoing research projects investigating Antarctic subglacial precipitates–rocks formed in water at the base of the ice sheet. By integrating textural and geochemical analyses of these samples with aqueous geochemical and ice sheet thermodynamic models, we have shown that the Antarctic ice sheet thins at its margins in response to millennial-scale Southern Hemisphere warming events. This rapid ice sheet response is triggered by ocean forcing that melts buttressing ice shelves, leading to accelerated ice flow. [Check out our publication in Nature Communications.](https://gavinpiccione.github.io/files/Piccione_NComm.pdf)
 
-A second project involving Antarctic subglacial precipitates provides evidence that this ice dynamic response to ocean forcing can occur within decades of Southern Hemisphere climate change. [Read about this work in recent preprint!](https://essopenarchive.org/doi/full/10.22541/essoar.172656755.50760515)
+A second project involving Antarctic subglacial precipitates provides evidence that this ice dynamic response to ocean forcing can occur within decades of Southern Hemisphere climate change. [Read about this work in our recent preprint!](https://essopenarchive.org/doi/full/10.22541/essoar.172656755.50760515)
 
 This research challenges the widely held assumption of a static East Antarctic ice sheet on suborbital timescales, and links Antarctic ice sheet volume to ocean-atmosphere-cryosphere teleconnections.
 
