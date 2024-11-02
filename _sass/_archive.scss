@@ -55,7 +55,6 @@
     .archive__item-title {
       margin-top: 1em;
       border-bottom: none;
-      text-align:center;
     }
   }
   
@@ -102,6 +101,7 @@
     .archive__item-title {
       margin-top: 0.5em;
       font-size: $type-size-5;
+      text-align:center;
     }
   
     .archive__item-excerpt {
