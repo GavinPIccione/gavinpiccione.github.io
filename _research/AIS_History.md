@@ -17,7 +17,7 @@ A second project involving Antarctic subglacial precipitates provides evidence t
 This research challenges the widely held assumption of a static East Antarctic ice sheet on suborbital timescales, and links Antarctic ice sheet volume to ocean-atmosphere-cryosphere teleconnections.
 
 <br/><img src='/images/MA113_slab_background.png'>
-*An example of an Antarctic subglacial precipitate. Layers are made up of calcite (orange) and opal (white)*
+*An example of an Antarctic subglacial precipitate. Layers are consist of calcite (orange) and opal (white).*
 
 ---
 ### The Laurentide Ice Sheet
