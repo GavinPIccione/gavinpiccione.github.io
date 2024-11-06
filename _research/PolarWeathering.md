@@ -13,5 +13,6 @@ Glaciers and ice sheets are powerful agents of physical erosion that create envi
 ---
 ### Ice Sheets as Weathering Agents
 
+I am working on projects aimed at characterizing the physical and chemical weathering processes in Antarctica. In one effort, we analysed the carbon and oxygen isotopic composition of a large suite (n = 49) of carbonate rocks that formed in Antarctic subglacial waters. These results describe widespread microbial carbon cycling in Antarctic basal waters, which drives both carbonate and silicate weathering beneath the ice sheet. The intensity of this subglacial weathering depends primarily on bedrock type. [Read more about this work in our preprint here.](/Users/gavinpiccione/Dropbox/GP_stuff/Website/gavinpiccione.github.io/files/Piccione_carbon.pdf)
 ---
 ### Glaciers and Ice Sheets as Nutrient Factories
