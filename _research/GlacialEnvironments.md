@@ -15,3 +15,6 @@ I have ongoing projects focused on establishing long-term records of subglacial 
 
 ---
 ### Carbon Cycling Beneath Ice Sheets
+Tsolated subglacial environments may contain vast stores of carbon dioxide and methane, which are prone to release during deglaciation. However, carbon cycling beneath the Antarctic ice sheet remains poorly constrained. In our work on Antarctic basal carbonate samples, we demonstrate that microbial respiration of organic matter is a widespread process producing CO<sub>2</sub> beneath the East Antarctic Ice Sheet.
+
+In another project, we present the first evidence of subglacial thermogenic methane release in Antarctica. Through combined carbonate geochemistry and lipid biomarker analyses, we show that thermogenic methane was released from hydrocarbon seeps in the David Glacier Catchment and the Pensacola Mountains during Pleistocene deglacial periods. [Read more about this work in our preprint.](https://doi.org/10.31223/X5HM89)
