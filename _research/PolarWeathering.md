@@ -18,3 +18,4 @@ I am also interested in the timescales of ice sheet weathering, and have used ur
 
 ---
 ### Glaciers and Ice Sheets as Nutrient Factories
+Water at the base of ice sheets can remain in contact with rock for thousands of years, allowing chemical weathering—often mediated by chemosynthetic organisms—to break down minerals and release nutrients like iron and manganese. When discharged, these nutrients can fertilize polar oceans. In a recent project, we linked subglacial iron and manganese mobilization in Antarctica to climate-driven changes in ice motion, suggesting a connection between climate cycles and glacial nutrient fluxes. [Check out our paper here, now in press!](https://egusphere.copernicus.org/preprints/2024/egusphere-2024-1359/)
