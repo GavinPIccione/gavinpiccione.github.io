@@ -1,5 +1,5 @@
 ---
-title: "Glacial Hydrology and Biogeochemistry"
+title: "Glacial Hydrogeochemistry"
 collection: research
 permalink: /research/GlacialEnvironments
 excerpt: <a href='https://gavinpiccione.github.io/research/GlacialEnvironments'><br/><img src='/images/Glacier.png'>
