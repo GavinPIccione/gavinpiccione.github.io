@@ -24,3 +24,7 @@ This research challenges the widely held assumption of a static East Antarctic i
 I am also investigating sedimentary records that describe subglacial and proglacial conditions in the now extinct Laurentide Ice Sheet. 
 
 Using U-series geochronology to date carbonates that formed beneath the Laurentide at Baffin Island, Canada, we identified evidence for three distinct episodes of ice sheet surging coinciding with Heinrich stadials one through three respectively. This dataset represents the first terrestrial archive of millenial cycles of enhanced LAurentide ice flow, providing evidence that ocean thermal forcing likely triggered Heinrich events. [Read more about this work in our paper in Science Advances.](https://gavinpiccione.github.io/files/Edwards_2022_SciAdv.pdf)
+
+---
+### Deep Time Ice Sheet Oxygen Compositions
+The partitioning of water between ice sheets and the ocean leaves a chemical signature that underpins the canonical climate record of oxygen isotope variations in marine benthic foraminifera. However, beyond the Pleistocene, significant uncertainty remains regarding past ocean δ^1^8O and, consequently, the redistribution of Earth’s surface water. A key focus of my postdoctoral work is developing a proxy for ice sheet δ^1^8O before the Pleistocene—beyond the reach of ice cores—to better constrain continental ice volume during these periods.
