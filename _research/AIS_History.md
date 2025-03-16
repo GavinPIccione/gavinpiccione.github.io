@@ -1,5 +1,5 @@
 ---
-title: "Ice Sheets and Sea Level"
+title: "Ice Sheet Evolution"
 layout: single-portfolio
 collection: research
 permalink: /research/IceSheetEvolution
