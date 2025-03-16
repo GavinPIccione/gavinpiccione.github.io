@@ -14,4 +14,4 @@ Read about our recently funded seed grant to study lead pollution: [Lead Exposur
 ---
 ### Building Community Partnerships
 
-Our team of researchers is currently building partnerships with community organizations to collaborate on effective strategies for community-based sampling of environmental pollution sources and initiatives to communicate the results of this research to Providence residents. If you are interested in collaborating on this work, please feel free to email me!
+Our team of researchers is currently building partnerships with community organizations in Rhode Island to collaborate on effective strategies for community-based sampling of environmental pollution sources and initiatives to communicate the results of this research to Providence residents. If you are interested in collaborating on this work, please feel free to email me!
