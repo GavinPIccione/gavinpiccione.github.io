@@ -17,4 +17,4 @@ I have studied Rare Earth Element (REE) ores at the Round Top Laccolith in West 
 
 ---
 ### Uranium Incorporation In Hydrothermal Minerals
-I am interested in the environmental conditions and minerals that lead to uranium concentration in Earth's crust. A key motivation for this work is identifying minerals suitable for U-Pb dating, with the goal of adding age constraints on ore genesis. Towards this goal, I am currently working on a project using X-ray Absorption Spectroscopy to investigate how uranium is incorporated into fluorite.
+I am interested in the environmental conditions and mineralogical processes that concentrate uranium in Earth's crust. A key motivation for this work is identifying minerals suitable for U-Pb dating to refine age constraints on ore genesis. To this end, I am currently using X-ray Absorption Spectroscopy to investigate how uranium is incorporated into fluorite.
