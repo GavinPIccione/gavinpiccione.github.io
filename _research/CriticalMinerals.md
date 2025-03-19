@@ -8,7 +8,7 @@ order_number: 73
 The green energy revolution has intensified the demand for mineral resources used in emerging technologies. In my research, I apply geochemical analyses to sedimentary rocks containing these "critical minerals" to investigate their formation and the conditions required to concentrate elements of interest. A key tool in these studies is synchrotron-based X-ray microspectroscopy. These investigations are conducted in collaboration with scientists at Stony Brook University and the National Synchrotron Light Source-II at Brookhaven National Laboratory.
 
 
-<br/><img src='/images/RoundTopXRF_B.jpg'>
+<br/><img src='/images/RoundTopXRF_Β.png'>
 *X-Ray Fluorescence (XRF) elemental maps from a rare earth element bearing sample from the Round Top Laccolith. I use high resolution maps like these to help constrain ore-bearing phases in hydrothermal minerals*
 
 ---
