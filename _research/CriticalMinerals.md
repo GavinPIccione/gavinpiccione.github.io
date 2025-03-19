@@ -9,7 +9,7 @@ The green energy revolution has intensified the demand for mineral resources use
 
 
 <br/><img src='/images/RoundTopXRF_Β.png'>
-*X-Ray Fluorescence (XRF) elemental maps from a rare earth element bearing sample from the Round Top Laccolith. I use high resolution maps like these to help constrain ore-bearing phases in hydrothermal minerals*
+*(Left) Rare Earth Element bearing hydrothermal rock from Round Top Laccolith, Texas. (Right) X-Ray Fluorescence (XRF) elemental maps. I use high resolution maps like these to help constrain ore-bearing phases in hydrothermal minerals*
 
 ---
 ### Tracking Ore Bearing Fluids
